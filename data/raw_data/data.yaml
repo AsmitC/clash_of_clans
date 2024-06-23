@@ -1,0 +1,20 @@
+names:
+- AD
+- AirSweeper
+- BombTower
+- Canon
+- ClanCastle
+- Eagle
+- Inferno
+- KingPad
+- Mortar
+- QueenPad
+- RcPad
+- Scattershot
+- TH13
+- WardenPad
+- WizzTower
+- Xbow
+nc: 16
+train: Clash-of-Clans-5/train/images
+val: Clash-of-Clans-5/valid/images
