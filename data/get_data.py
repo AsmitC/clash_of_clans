@@ -17,4 +17,3 @@ rf = Roboflow(api_key="my_key")
 project = rf.workspace("asmit-chakraborty").project("clash_of_clans-7n0sd")
 version = project.version(1)
 dataset = version.download("yolov5")
-

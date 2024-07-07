@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /Users/asmit/Programming/Projects/clash_of_clans/data/preprocessed_data/train/images
+val: /Users/asmit/Programming/Projects/clash_of_clans/data/preprocessed_data/valid/images
+test: /Users/asmit/Programming/Projects/clash_of_clans/data/preprocessed_data/test/images
 
 nc: 16
 names: ['AD', 'AirSweeper', 'BombTower', 'Canon', 'ClanCastle', 'Eagle', 'Inferno', 'KingPad', 'Mortar', 'QueenPad', 'RcPad', 'Scattershot', 'TH13', 'WardenPad', 'WizzTower', 'Xbow']
